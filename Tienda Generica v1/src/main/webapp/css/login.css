@@ -2,8 +2,7 @@
 .fondo {
 	background-image: url('../imagenes/7.jpeg');
 	background-size:cover;
-    background-color: beige;
-    background-attachment: fixed;
+    background-color: white;
 }
 .InicioSesion {
 	font-family:Garamond;
